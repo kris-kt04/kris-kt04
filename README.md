@@ -33,7 +33,7 @@ A collection of coding exercises, experiments, and technical explorations demons
 
 - 3+ years in startup environments
 - MSc Cloud Computing (Merit) – University of Leicester
-- AWS Cloud Practitioner
+- Certified Frontend Developer — HackerRank
 
 ## Connect
 
